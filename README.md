@@ -47,3 +47,13 @@ Since the financial meltdown, the US government imposed more strict policies for
 
 ## 1.2 Getting the Sample and Cleaning Data 
 
+Performance data set  need to be aggregated:
+The sample loans data from 2008 Q1 to 2009 Q4 should meet the following criteria:
+
+- Single family home
+- 30-year fixed rate
+- FICO score between 550 and 850
+- A random sample of 1% is good enough
+
+
+
