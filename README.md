@@ -48,7 +48,7 @@ Since the financial meltdown, the US government imposed more strict policies for
 ## 1.2 Getting the Sample and Cleaning Data 
 
 
-Performance data set  need to be aggregated
+Origination Data need to be aggregated
 
 The sample loans data from 2008 Q1 to 2009 Q4 should meet the following criteria:
 
@@ -58,7 +58,7 @@ The sample loans data from 2008 Q1 to 2009 Q4 should meet the following criteria
 - A random sample of 1% is good enough
 
 
-Performance data sets  need to be aggregated to derive a delinquency flag for each loan:
+Performance Data by Month need to be aggregated to derive a delinquency flag for each loan:
 
 - A loan has reached 90+ days in delinquency
 - A loan has shown recovery amount as recovery usually comes after foreclosure and repossession by the bank (REO)
