@@ -37,3 +37,8 @@ http://www.freddiemac.com/fmac-resources/research/pdf/user_guide.pdf
 
 # Part 1:Changes in Mortgage Portfolio (Exploratory Data Analysis)
 
+Examine changes in mortgage portfolio after the financial meltdown in 2008. This is a
+pure exploratory data analysis.
+
+## Backround
+
