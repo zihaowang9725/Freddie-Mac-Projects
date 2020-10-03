@@ -25,3 +25,6 @@ Download the quarterly datasets of 2008 and 2009. Each zipped file contains two 
 Loan characteristics such as FICO, LTV, CLTV, property type, occupancy status, etc.
 - Performance Data by Month:
 Status of every loan in each month since it enters the Freddie Mac book.
+
+# Freddie Mac General User Guide (Served as a data dictionary) 
+http://www.freddiemac.com/fmac-resources/research/pdf/user_guide.pdf
