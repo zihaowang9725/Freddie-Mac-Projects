@@ -14,7 +14,7 @@ A total of five parts have been designed, which are progressive in terms of busi
 - Know how to apply modeling skills to some similar fields - Some specific modeling methods are also applicable to marketing applications such as direct mail campaigns. 
 - Build project management/documentation skills by self-design project steps - The project description deliberately uses a format similar to model documentation. 
 
-# Dataset
+# Source of Data
 
 Freddie Mac Single Family Loan-Level Dataset: (Loggin is required to download the dataset)
 http://www.freddiemac.com/research/datasets/sf_loanlevel_dataset.html
