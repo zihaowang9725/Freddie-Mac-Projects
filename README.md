@@ -1,7 +1,7 @@
 # Category
 
 A total of five parts have been designed, which are progressive in terms of business significance and programming difficulty:
-- Part 1 – Changes in Mortgage Portfolio (Exploratory Aata Analysis)
+- Part 1 – Changes in Mortgage Portfolio (Exploratory Data Analysis)
 - Part 2 – Risk/Delinquency Model (Logistic Regression and Decision Tree)
 - Part 3 – Prepayment Model (Regression/Classification Model)
 - Part 4 – Transition of Loan Status (Build a Transition Matrix)
