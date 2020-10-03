@@ -32,4 +32,5 @@ Download the General User Guide and carefully review it to understand the meanin
 
 http://www.freddiemac.com/fmac-resources/research/pdf/user_guide.pdf
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
