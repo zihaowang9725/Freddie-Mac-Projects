@@ -34,3 +34,6 @@ http://www.freddiemac.com/fmac-resources/research/pdf/user_guide.pdf
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+# Part 1:Changes in Mortgage Portfolio (Exploratory Data Analysis)
+
