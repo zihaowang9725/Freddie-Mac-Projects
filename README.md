@@ -45,7 +45,7 @@ Before the financial meltdown in the third quarter of 2008, many people purchase
 
 Since the financial meltdown, the US government imposed more strict policies for underwriting. For example, the requirement for FICO score has become higher, and income verification is needed.
 
-## 1.2 Getting the Sample and Cleaning Data 
+## 1.2 Getting the Sample and Aggregating Data 
 
 
 Origination Data need to be aggregated
