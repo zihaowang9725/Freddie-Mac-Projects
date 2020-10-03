@@ -27,4 +27,7 @@ Loan characteristics such as FICO, LTV, CLTV, property type, occupancy status, e
 Status of every loan in each month since it enters the Freddie Mac book.
 
 # Freddie Mac General User Guide (Served as a data dictionary) 
+Download the General User Guide and carefully review it to understand the meaning of each variable:
 http://www.freddiemac.com/fmac-resources/research/pdf/user_guide.pdf
+
+
