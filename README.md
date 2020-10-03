@@ -51,9 +51,9 @@ Performance data set  need to be aggregated
 
 The sample loans data from 2008 Q1 to 2009 Q4 should meet the following criteria:
 
-- Single family home
-- 30-year fixed rate
-- FICO score between 550 and 850
+- Single family home ('prop_type' == 'SF')
+- 30-year fixed rate ('orig_loan_term']==360)
+- FICO score between 550 and 850 ('fico' >= 550 and 'fico' <= 850)
 - A random sample of 1% is good enough
 
 
