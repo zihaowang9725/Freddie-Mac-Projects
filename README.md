@@ -21,7 +21,7 @@ http://www.freddiemac.com/research/datasets/sf_loanlevel_dataset.html
 
 Download the quarterly datasets of 2008 and 2009. Each zipped file contains two parts:
 
-- Origination data:
+- Origination Data:
 Loan characteristics such as FICO, LTV, CLTV, property type, occupancy status, etc.
-- Performance data by month:
+- Performance Data by Month:
 Status of every loan in each month since it enters the Freddie Mac book.
