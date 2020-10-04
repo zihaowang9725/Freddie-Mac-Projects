@@ -107,4 +107,4 @@ Part 1 is to compare the difference in the distribution of variables such as FIC
 
 Assuming that all situations are consistent, the only change is that the government has strengthened supervision, then the question becomes what is the impact on loan quality? This principle is similar to the AB testing or clinical trial of marketing analysis.
 
-# Coding Approaches Explanation
+## 1.6 Coding Approaches Explanation
