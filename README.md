@@ -80,9 +80,18 @@ Two kinds of mortgage refinance:
 
 a. Cash-out Refinance:
    
-   Example 1: Say a house is worth 600k, there are still 350k left on the loan, therefore this house has a total of 250k equaity at this time. The house owner
+   Example 1: 
+   
+   Say a house is worth 600k, there are still 350k left on the loan, therefore this house has a total of 250k equaity at this time. The house owner
    reach out to another bank for refinance, asking for a 400k loan. The bank that is asked for refinance pay off the 350k loan and gives the house owner 50k 
-   cash. 
+   cash. From now on, the house owner owes the new bank 40k.
+   
+   Example 2:
+   
+   Say a house you bought 5 years ago was worth 500k, you applied for a 350k loan. Now the house is worth 650k and you have already paid off 50k loan, there
+   are still 300k left on the loan. Since the house is worth 650k now and you have already paid off 50k, this house now has a total of 350k equity. You can use      it (350k equity) as a collateral for a new loan.
+   
+   
 
 ## 1.5 Conclusion and Summary
 
