@@ -72,9 +72,16 @@ Performance Data by Month need to be aggregated to derive a delinquency flag for
 3. Before the financial meltdown, many borrowers thought they could profit from the increased value of the houses in a few years, so portion of purchases (i.e., buying a house rather than refinancing an existing mortgage) was higher. After the meltdown, portions of purchases went down. Lower interest rates in 2009 also boosted the market for refinancing.
 4. The quality of loans originated after meltdown is considerably higher, i.e., their delinquency rate is much lower compared to those loans originated before the meltdown.
 
-## 1.4 Conclusion and Summary
+## 1.4 Mortgage Domain Knowledge Take-away
 
-The financial crisis occurred in the third quarter of 2008. Since then, the government has greatly accelerated supervision. Only those with high FICO scores can easily buy a house. The default rate is greatly reduced. At the same time, due to lower interest rates, many mortgage borrowers applied for refinance.
+From the analysis above, the financial crisis occurred in the third quarter of 2008. Since then, the government has greatly accelerated supervision. Only those with high FICO scores can easily buy a house. The default rate is greatly reduced. At the same time, due to lower interest rates, many mortgage borrowers applied for refinance.
+
+Two kinds of mortgage refinance:
+
+a. Cash-out Refinance:
+   f
+
+## 1.5 Conclusion and Summary
 
 Part 1 is to compare the difference in the distribution of variables such as FICO score in the two stages, or find an average. Sample design has incorporated the concept of experimental design, which means the year before the financial crisis is the control group and the year after the financial crisis is the experimental group. 
 
