@@ -93,6 +93,14 @@ a. Cash-out Refinance:
    
    Some house owner use the cash-out refinance to pay for house decoration (build a swimming pool), big purchases (yacht), suurrogacy fees, or children's tuition
 
+
+b. Rate/term Refinance:
+
+   Say you bought a house two years ago with a fixed rate of 5.5%, and you have to pay $2,000 a month. Now for some reasons (your fico score has increased), 
+   you do not have to pay that high rate. Therefore, you apply for refinance from the second bank, and you start to owe them. From now on, you pay lower rate 
+   (say 4%) and lower money each month (say $1,700), therefore your financial burden is also reduced.
+   
+   
 ## 1.5 Conclusion and Summary
 
 Part 1 is to compare the difference in the distribution of variables such as FICO score in the two stages, or find an average. Sample design has incorporated the concept of experimental design, which means the year before the financial crisis is the control group and the year after the financial crisis is the experimental group. 
