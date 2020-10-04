@@ -79,7 +79,8 @@ From the analysis above, the financial crisis occurred in the third quarter of 2
 Two kinds of mortgage refinance:
 
 a. Cash-out Refinance:
-   f
+   
+   Example 1:  
 
 ## 1.5 Conclusion and Summary
 
