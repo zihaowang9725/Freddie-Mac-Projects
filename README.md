@@ -52,9 +52,9 @@ Origination Data need to be aggregated
 
 The sample loans data from 2008 Q1 to 2009 Q4 should meet the following criteria:
 
-- Single family home ('prop_type' == 'SF')
-- 30-year fixed rate ('orig_loan_term']==360)
-- FICO score between 550 and 850 ('fico' >= 550 and 'fico' <= 850)
+- Single family home 
+- 30-year fixed rate 
+- FICO score between 550 and 850 
 - A random sample of 1% is good enough
 
 
@@ -62,7 +62,8 @@ Performance Data by Month need to be aggregated to derive a delinquency flag for
 
 - A loan has reached 90+ days in delinquency
 - A loan has shown recovery amount as recovery usually comes after foreclosure and repossession by the bank (REO)
-- A loan has been modified, i.e., interest rate reduction after negotiating with the bank.
+- A loan has been modified, i.e., interest rate reduction after negotiating with the bank
+- As older loans have longer performance histories and hence are more likely to encounter delinquency, I selected performance data of 5 years for each loan
 
 
 
