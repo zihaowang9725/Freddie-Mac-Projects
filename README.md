@@ -91,7 +91,7 @@ a. Cash-out Refinance:
    Say a house you bought 5 years ago was worth 500k, you applied for a 350k loan. Now the house is worth 650k and you have already paid off 50k loan, there
    are still 300k left on the loan. Since the house is worth 650k now and you have already paid off 50k, this house now has a total of 350k equity. You can use      it (350k equity) as a collateral for a new loan.
    
-   
+   Some house owner use the cash-out refinance to pay for house decoration (build a swimming pool), big purchases (yacht), suurrogacy fees, or children's tuition
 
 ## 1.5 Conclusion and Summary
 
