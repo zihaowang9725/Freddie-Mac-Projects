@@ -67,8 +67,8 @@ Performance Data by Month need to be aggregated to derive a delinquency flag for
 
 ## 1.3 Hypothesis
 
-- 1. After the financial meltdown, loans in general have high credit scores (FICO).
-- 2. After the financial meltdown, the portion of subprime loans (FICO < 660) decreased substantially in the mortgage portfolio.
-- 3. Before the financial meltdown, many borrowers thought they could profit from the increased value of the houses in a few years, so portion of purchases (i.e., buying a house rather than refinancing an existing mortgage) was higher. After the meltdown, portions of purchases went down. Lower interest rates in 2009 also boosted the market for refinancing.
-- 4. The quality of loans originated after meltdown is considerably higher, i.e., their delinquency rate is much lower compared to those loans originated before the meltdown.
+1. After the financial meltdown, loans in general have high credit scores (FICO).
+2. After the financial meltdown, the portion of subprime loans (FICO < 660) decreased substantially in the mortgage portfolio.
+3. Before the financial meltdown, many borrowers thought they could profit from the increased value of the houses in a few years, so portion of purchases (i.e., buying a house rather than refinancing an existing mortgage) was higher. After the meltdown, portions of purchases went down. Lower interest rates in 2009 also boosted the market for refinancing.
+4. The quality of loans originated after meltdown is considerably higher, i.e., their delinquency rate is much lower compared to those loans originated before the meltdown.
 
