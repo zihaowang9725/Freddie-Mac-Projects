@@ -114,3 +114,14 @@ A regression/classification model for predicting delinquency
 
 ## 2.1 Background
 
+Predicting delinquency rate (usually called bad rate in industry) will help a bank or an
+investor to do the following:
+
+
+- For underwriting, i.e., approving or declining a loan application. Applicants with very
+high probability estimates for delinquency are declined.
+- A better pricing strategy. Loans with higher probabilities of delinquency should be
+charged a higher interest rate. (Interest rate is considered the price of a loan.)
+- A better valuation of loan quality. When a bank or an investor buys a mortgage
+portfolio from another company, quality of loans needs to be evaluated. A portfolio
+of higher delinquency rate will be evaluated for a lower price for purchase.
