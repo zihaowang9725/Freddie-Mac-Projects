@@ -125,3 +125,5 @@ charged a higher interest rate. (Interest rate is considered the price of a loan
 - A better valuation of loan quality. When a bank or an investor buys a mortgage
 portfolio from another company, quality of loans needs to be evaluated. A portfolio
 of higher delinquency rate will be evaluated for a lower price for purchase.
+
+## 2.2 Getting the Sample and Aggregating Data 
