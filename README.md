@@ -110,4 +110,7 @@ Assuming that all situations are consistent, the only change is that the governm
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Part 2 – Risk/Delinquency Model (Logistic Regression and Decision Tree)
-in progress
+A regression/classification model for predicting delinquency
+
+## 2.1 Background
+
