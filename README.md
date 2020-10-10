@@ -124,5 +124,5 @@ investor to do the following:
 
 ## 2.2 Getting the Sample and Aggregating Data 
 
-- Use the same criteria as in Project 1 to select loans eligible or modeling (see 1.3)
-- Use the same definition of delinquency as in Project 1 (see 1.4)
+- Use the same criteria as in part 1 to select loans eligible or modeling (see 1.2)
+- Use the same definition of delinquency as in Project 1 (see 1.2)
