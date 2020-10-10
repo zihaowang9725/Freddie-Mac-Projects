@@ -123,3 +123,6 @@ investor to do the following:
 - A better valuation of loan quality. When a bank or an investor buys a mortgage portfolio from another company, quality of loans needs to be evaluated. A portfolio of higher delinquency rate will be evaluated for a lower price for purchase.
 
 ## 2.2 Getting the Sample and Aggregating Data 
+
+- Use the same criteria as in Project 1 to select loans eligible or modeling (see 1.3)
+- Use the same definition of delinquency as in Project 1 (see 1.4)
