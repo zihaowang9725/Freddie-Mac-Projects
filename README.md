@@ -126,3 +126,5 @@ investor to do the following:
 
 - Use the same criteria as in part 1 to select loans eligible or modeling (see 1.2)
 - Use the same definition of delinquency as in Project 1 (see 1.2)
+- Split the sample by 60/40 into a modeling and validation sample
+- All predictors (independent variables) should be from the origination file. No information from the performance file can be used as predictors because any of the activities have not occurred at the time of origination
