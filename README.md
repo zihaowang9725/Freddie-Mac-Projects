@@ -129,11 +129,11 @@ investor to do the following:
 - Split the sample by 60/40 into a modeling and validation sample
 - All predictors (independent variables) should be from the origination file. No information from the performance file can be used as predictors because any of the activities have not occurred at the time of origination (Performance data set contains the status of every loan in each month since it enters the Freddie Mac book)
 
-## 2.3 Modeling Method Choose
+## 2.3 Modeling Methods Choose
 
 - Goal: Classify a new observation into one of the classes based on predictor values, which focus on binary classification, i.e. Y=0 or Y=1
 - Methods Chosen: Logistics Regression and Decision Tree ("white-box" methods)
 - Reasons for "white-box" method:
    1. This model should be used to approve or decline a loan application. As underwriting is subject to regulation from the government, behaviors of all variables should be explainable to meet the requirement for compliance. Also, if a loan application is declined, we need to tell the consumer the reasons for decline, e.g., his/her FICO score is too low and his/her DTI is too high.
    2. After the model has been built and approved by the legal/compliance department, the algorithm will be handed to the IT (or operation) team for implementation (also called deployment).
-- Therefore, logistic regression or decision tree are preferred here. "black-box" methodo cannot be used in this case.
+- Therefore, logistic regression or decision tree are preferred here; "Black-box" methods cannot be used in this case.
