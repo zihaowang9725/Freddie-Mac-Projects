@@ -128,3 +128,8 @@ investor to do the following:
 - Use the same definition of delinquency as in Project 1 (see 1.2)
 - Split the sample by 60/40 into a modeling and validation sample
 - All predictors (independent variables) should be from the origination file. No information from the performance file can be used as predictors because any of the activities have not occurred at the time of origination (Performance data set contains the status of every loan in each month since it enters the Freddie Mac book)
+
+## 2.3 Modeling Method Choose
+
+Goal: Classify a new observation into one of the classes based on predictor values, which focus on binary classification, i.e. Y=0 or Y=1
+Methods Chosen: Logistics Regression and Decision Tree
