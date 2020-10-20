@@ -124,7 +124,7 @@ investor to do the following:
 
 ## 2.2 Getting the Sample and Aggregating Data 
 
-- Use the same criteria as in part 1 to select loans eligible or modeling (see 1.2)
+- Use the same criteria as in part 1 to select loans eligible for modeling (see 1.2)
 - Use the same definition of delinquency as in Project 1 (see 1.2)
 - Split the sample by 60/40 into a modeling and validation sample
 - All predictors (independent variables) should be from the origination file. No information from the performance file can be used as predictors because any of the activities have not occurred at the time of origination (Performance data set contains the status of every loan in each month since it enters the Freddie Mac book)
